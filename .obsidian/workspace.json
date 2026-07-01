@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/mission_statement.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mission_statement"
+              "title": "README"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/mission_statement.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mission_statement"
+              "title": "Outline of README"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "5309c2336d517af0",
   "lastOpenFiles": [
-    "README.md",
     "docs/mission_statement.md",
+    "README.md",
     "docs"
   ]
 }
