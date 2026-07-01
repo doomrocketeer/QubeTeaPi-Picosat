@@ -23,6 +23,7 @@ In order to launch a satellite, you must purchase a slot with a launch broker. A
 - Bake a pastry
 - Make your own fillings or use someone's recipe
 - Launch your QubeTeaPi!
+- Operate your mission!
 
 ### Licensing
 This project is licensed under CERN-OHL-W v2. Commercial use is prohibited without prior permission.
