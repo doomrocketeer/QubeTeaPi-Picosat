@@ -181,11 +181,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-git:Open Git source control": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "2917cf985f415e9b",
+  "active": "5309c2336d517af0",
   "lastOpenFiles": [
     "README.md",
     "docs/mission_statement.md",
