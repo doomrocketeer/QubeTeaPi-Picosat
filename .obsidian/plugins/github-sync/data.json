@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/doomrocketeer/QubeTeaPi-Picosat",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}

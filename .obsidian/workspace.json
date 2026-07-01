@@ -157,27 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "docs/mission_statement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "9fc3984eba0ec331",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of mission_statement"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fc3984eba0ec331",
+  "active": "2917cf985f415e9b",
   "lastOpenFiles": [
     "README.md",
     "docs/mission_statement.md",
