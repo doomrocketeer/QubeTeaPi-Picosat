@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/mission_statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "mission_statement"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5309c2336d517af0",
+  "active": "16b3b4aa74d2bf2f",
   "lastOpenFiles": [
     "docs/mission_statement.md",
     "README.md",
