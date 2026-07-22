@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/systems_design/stakeholder_expectations.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stakeholder_expectations"
+              "title": "README"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/systems_design/stakeholder_expectations.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of stakeholder_expectations"
+              "title": "Outline of README"
             }
           }
         ],
@@ -173,11 +173,13 @@
   },
   "active": "16b3b4aa74d2bf2f",
   "lastOpenFiles": [
-    "docs/systems_design/roadmap.png",
     "docs/systems_design/stakeholder_expectations.md",
+    "LOGO.png",
+    "Unconfirmed 869251.crdownload",
+    "docs/systems_design/mission_statement.md",
+    "docs/systems_design/roadmap.png",
     "docs/systems_design/roadmap.drawio",
     "docs/definitions_and_acronyms.md",
-    "docs/systems_design/mission_statement.md",
     "docs/systems_design/roadmap",
     "README.md",
     "docs/mission_statement.md",
