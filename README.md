@@ -1,7 +1,7 @@
 # QubeTeaPi - An open-source, low-cost picosat bus
 ### Mission Summary
 QubeTeaPi is an open-source, PocketQube-format satellite bus that serves to provide a low-cost platform for makers, educators, students, and businesses to launch a payload into orbit.  
-[Full Mission Statement](docs/mission_statement.md)
+[Full Mission Statement](docs/systems_design/mission_statement.md)
 ### Key Features
 - Open-source design
 - RP2040-based OBC
