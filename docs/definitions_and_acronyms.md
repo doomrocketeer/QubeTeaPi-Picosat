@@ -7,3 +7,4 @@ Some of these terms are common industry terms, and some are unique to QubeTeaPi.
 - **SEE** - Single-Event Effect; effects caused when a satellite encounters ionising radiation
 - **SEU** - Single-Event Upset; SEEs that cause a state change in a component
 - **SEL** - Single-Event Latch-up; SEEs that cause short circuits
+- **COTS** - Commercial Off The Shelf; parts that are readily-available and can be purchased easily from a supplier
