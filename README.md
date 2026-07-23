@@ -13,7 +13,9 @@ Read the full mission statement [here](docs/systems_design/mission_statement.md)
 - Designed for LEO/SSO
 - Modular pastry and fillings ecosystem
 ## Development Roadmap
+
 ![roadmap](roadmap.png)
+
 I am currently working on the initial systems engineering documentation for both the design standard and first pastry (the development of these will influence each other).
 ## Baking Your QubeTeaPi
 Read the mission ConOps [here](docs/systems_design/con_ops/mission_con_ops.md).
