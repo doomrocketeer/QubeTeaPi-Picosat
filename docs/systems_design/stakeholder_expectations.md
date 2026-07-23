@@ -12,14 +12,13 @@ The following use cases have been identified:
 - People who wish to expand the QubeTeaPi project by developing new pastries, referred to as **contributors**
 It is likely that many stakeholders will fulfill multiple use cases.
 # Mission Goals
-| ID    | Stakeholder(s)                                                | Need                                | Goal                                                                                                 |
-| ----- | ------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| MG-01 | Contributors, Manufacturers, Students                         | To develop a pastry                 | Development of a comprehensive standard for pastry design                                            |
-| MG-02 | Developers, Manufacturers, Businesses, Universities, Students | To develop a filling                | Development of a comprehensive standard for filling design and integration                           |
-| MG-03 | All                                                           | To assemble a satellite             | A method of easily assembling pastries and fillings                                                  |
-| MG-04 | All                                                           | To integrate fillings into a pastry | Comprehensive documentation for the bus protocol connecting the pastry to the fillings               |
-| MG-05 | All                                                           | To program a satellite              | Development of modular firmware that shall be adaptable to allow for different pastries and fillings |
-|       |                                                               | To fly/operate a satellite          | Development of a communications system and protocol                                                  |
-|       |                                                               |                                     |                                                                                                      |
-|       |                                                               |                                     |                                                                                                      |
-|       |                                                               |                                     |                                                                                                      |
+| ID    | Stakeholder(s)                                                | Need                                                  | Goal                                                                                              |
+| ----- | ------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| MG-01 | Contributors, Manufacturers, Students                         | To develop a pastry                                   | Provide a comprehensive standard for pastry design                                                |
+| MG-02 | Developers, Manufacturers, Businesses, Universities, Students | To develop a filling                                  | Provide a comprehensive standard for filling design and integration                               |
+| MG-03 | All                                                           | To assemble a satellite                               | Design pastry standard to allow for easy assembly with fillings                                   |
+| MG-04 | All                                                           | To integrate fillings into a pastry                   | Establish a robust, standardised bus architecture to connect the pastry and fillings              |
+| MG-05 | All                                                           | To program a satellite                                | Provide modular firmware that shall be adaptable to allow for different pastries and fillings     |
+| MG-06 | All                                                           | To fly/operate a satellite                            | Establish a standardised architecture for communications between a satellite and a ground station |
+| MG-07 | Customers, Businesses, Universities, Students                 | To manufacture and use existing pastries and fillings | Provide open-source designs for pastries and some general-use fillings                            |
+
