@@ -31,19 +31,19 @@ It is likely that many stakeholders will fulfill multiple use cases.
 | MO-04 | MG-01, MG-02, MG-04 | The design standard should define the bus protocol that should enable communication between the pastry and fillings |
 | MO-05 | MG-01               | The design standard should define the power requirements of a pastry                                                |
 | MO-06 | MG-01, MG-06        | The design standard describe how a pastry should communicate with the ground                                        |
-| MO-07 | MG-01               | The design standard should ensure robust operation in the space environment and prevent SEEs                        |
+| MO-07 | MG-01               | The design standard should ensure reliable operation in the space environment                                       |
 | MO-08 | MG-02               | The design standard should describe the essential features and components of a filling                              |
 | MO-09 | MG-02               | The design standard should define the layout of a filling                                                           |
 | MO-10 | MG-02               | The design standard should define the power requirements of a filling                                               |
-| MO-11 | MG-02               | The design standard should allow for a wide variety of filling ingredients (payload components)                     |
+| MO-11 | MG-02               | The design standard should allow for a wide variety of COTS components to be included in fillings                   |
 | MO-12 | MG-05               | The firmware should control the pastry and fillings and allow the stakeholder to carry out their mission            |
-| MO-13 | MG-05               | It should be easy for developers and contributors to modify firmware to control their own pastries and fillings     |
-| MO-14 | MG-05               | The firmware should be useful for a wide variety of missions                                                        |
-| MO-15 | MG-06               | The design standard should define the communications hardware that should be used                                   |
-| MO-16 | MG-06               | The design standard should define the communications protocol(s) that should be used                                |
-| MO-17 | MG-07               | The provided designs should be easy to manufacture                                                                  |
-| MO-18 | MG-07               | The provided designs should be easy to integrate                                                                    |
-| MO-19 | MG-08               | The BOM costs of the provided pastry designs should be minimised                                                    |
-| MO-20 | MG-08               | The BOM costs of the provided filling designs should be minimised                                                   |
+| MO-13 | MG-05               | Developers and contributors should be able to modify the firmware to control their own pastries and fillings        |
+| MO-14 | MG-06               | The design standard should define the communications hardware that should be used                                   |
+| MO-15 | MG-06               | The design standard should define the communications protocol(s) that should be used                                |
+| MO-16 | MG-07               | The provided designs should be easy to manufacture                                                                  |
+| MO-17 | MG-07               | The provided designs should be easy to integrate                                                                    |
+| MO-18 | MG-08               | The BOM costs of the provided pastry designs should be minimised                                                    |
+| MO-19 | MG-08               | The BOM costs of the provided filling designs should be minimised                                                   |
+| MO-20 | MG-08               | The provided designs should only use readily-available COTS components                                              |
 
 
