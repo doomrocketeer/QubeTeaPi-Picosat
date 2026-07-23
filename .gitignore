@@ -1,0 +1,6 @@
+# File Formats
+*.drawio
+
+# Folders
+.obsidian/
+.trash/
