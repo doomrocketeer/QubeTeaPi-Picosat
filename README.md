@@ -16,7 +16,7 @@ Read the full mission statement [here](docs/systems_design/mission_statement.md)
 
 ![roadmap](roadmap.png)
 
-I am currently working on the initial systems engineering documentation for both the design standard and first pastry (the development of these will influence each other).
+I am currently working on the ConOps. Stakeholder expectations are now frozen, but may be revisited.
 ## Baking Your QubeTeaPi
 Read the mission ConOps [here](docs/systems_design/con_ops/mission_con_ops.md).
 You can bake existing recipes for pastries and fillings, or create your own!
